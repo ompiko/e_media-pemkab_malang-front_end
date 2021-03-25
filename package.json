@@ -1,0 +1,42 @@
+{
+  "name": "simaya-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.26.20",
+    "axios": "^0.21.1",
+    "babel-eslint": "^8.2.3",
+    "chart.js": "^1.1.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "fullcalendar-reactwrapper": "^1.0.7",
+    "history": "^4.7.2",
+    "jquery": "^3.6.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.22.1",
+    "prettier": "^1.11.1",
+    "prop-types": "^15.7.2",
+    "radium": "^0.24.0",
+    "react": "^16.3.2",
+    "react-animations": "^1.0.0",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.2",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.14.0",
+    "react-quill": "^1.2.7",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
